@@ -26,6 +26,8 @@ namespace UnitTesTask
         public int Division(int a, int b)
         {
             return a / b;
+
         }
+
     }
 }
